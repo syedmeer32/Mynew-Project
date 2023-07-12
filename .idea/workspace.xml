@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3cfb214-b431-407e-b913-f6d08cdacdbe" name="Changes" comment="accept added">
+    <list default="true" id="e3cfb214-b431-407e-b913-f6d08cdacdbe" name="Changes" comment="accept in Test1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,10 +22,17 @@
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="test" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="branchProtectionPatterns">
+      <list>
+        <option value="master" />
+      </list>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -71,7 +79,21 @@
       <option name="project" value="LOCAL" />
       <updated>1689155897379</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="accept in Test">
+      <created>1689156325815</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1689156325815</updated>
+    </task>
+    <task id="LOCAL-00005" summary="accept in Test1">
+      <created>1689156676308</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1689156676308</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -85,7 +107,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="test" />
+                        <option value="origin/test1" />
                       </list>
                     </value>
                   </entry>
@@ -100,6 +122,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="accept" />
     <MESSAGE value="accept added" />
-    <option name="LAST_COMMIT_MESSAGE" value="accept added" />
+    <MESSAGE value="accept in Test" />
+    <MESSAGE value="accept in Test1" />
+    <option name="LAST_COMMIT_MESSAGE" value="accept in Test1" />
   </component>
 </project>
